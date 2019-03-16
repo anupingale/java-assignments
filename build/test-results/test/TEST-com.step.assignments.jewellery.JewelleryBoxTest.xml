@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.step.assignments.jewellery.JewelleryBoxTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-03-16T10:18:16" hostname="in-Pannapur.local" time="0.011">
+  <properties/>
+  <testcase name="name()" classname="com.step.assignments.jewellery.JewelleryBoxTest" time="0.011"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
